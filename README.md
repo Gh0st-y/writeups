@@ -27,7 +27,7 @@ permission to attack.
 
 | Box / Room | Platform | Difficulty | Key techniques | Writeup |
 |------------|----------|------------|----------------|---------|
-| Mr. Robot | TryHackMe | Medium | Web enumeration, WordPress exploitation, reverse shell, hash cracking, SUID privilege escalation | [Read →](./mr-robot/writeup.md) |
+| Mr. Robot | TryHackMe | Medium | Web enumeration, WordPress exploitation, reverse shell, hash cracking, SUID privilege escalation | [Read →](./MrRobot/MrRobotCTF.pdf) |
 
 ---
 
