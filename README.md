@@ -61,4 +61,3 @@ security-writeups/
 ## Contact
 
 - **LinkedIn:** https://linkedin.com/in/ruan-v-d-merwe
-- **Email:** ruanvandermerwe208@gmail.com
